@@ -1,0 +1,26 @@
+{
+  "name": "exer-05-creating-web-servers-using-express-js-hfroldan",
+  "version": "1.0.0",
+  "description": "**Name:** Hervé F. Roldan <br/>\r **Degree Program:** B.S. Computer Science <br/>\r **Student number:** 2021 - 08286 <br/>",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CMSC-100-2S24-25/exer-05-creating-web-servers-using-express-js-hfroldan.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CMSC-100-2S24-25/exer-05-creating-web-servers-using-express-js-hfroldan/issues"
+  },
+  "homepage": "https://github.com/CMSC-100-2S24-25/exer-05-creating-web-servers-using-express-js-hfroldan#readme",
+  "type": "module",
+  "dependencies": {
+    "express": "^4.21.2",
+    "needle": "^3.3.1"
+  }
+}
