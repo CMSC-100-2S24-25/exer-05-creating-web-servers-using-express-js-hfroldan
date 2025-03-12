@@ -1,3 +1,5 @@
+import needle from 'needle';
+
 // test cases
 
 // ✓ add a book
